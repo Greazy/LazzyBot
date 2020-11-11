@@ -1,0 +1,2 @@
+# LazzyBot
+Little bot
